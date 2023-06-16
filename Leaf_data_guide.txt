@@ -1,0 +1,9 @@
+
+
+ - label.item() returns the int value for the handwritten character
+    - numbers: 0-9
+    - uppercase characters: 10-25
+    -lowercase characters:26-61
+
+ - No user labels in test data by default, can add by just copy pasting section from train into test
+    - this is why there are if train:'s everywhere
